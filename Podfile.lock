@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.9.1)
+  - Kingfisher (7.11.0)
+  - Realm (10.51.0):
+    - Realm/Headers (= 10.51.0)
+  - Realm/Headers (10.51.0)
+  - RealmSwift (10.51.0):
+    - Realm (= 10.51.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - RealmSwift
+  - SVProgressHUD
+  - SVPullToRefresh
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+    - SVPullToRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  Realm: 7e75a684c16aca7c6a5db9c70caebf37f07dcee5
+  RealmSwift: 35bdffb8a504659d1b3e3f45b624e93ac0ec89e3
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+PODFILE CHECKSUM: 391ba79ec5c78e94cca0ce0d3548da89d6edcf58
+
+COCOAPODS: 1.13.0
